@@ -1,1 +1,1 @@
-Formatted date time!
+$Format('d/MM/YYYY HH:mm')
