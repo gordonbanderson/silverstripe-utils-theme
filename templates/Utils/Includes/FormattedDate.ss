@@ -1,1 +1,1 @@
-Formatted date!
+$Format('d/MM/YYYY')
