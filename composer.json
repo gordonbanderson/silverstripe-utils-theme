@@ -16,5 +16,7 @@
     },
     "extra": {
         "installer-name": "utils"
-    }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
