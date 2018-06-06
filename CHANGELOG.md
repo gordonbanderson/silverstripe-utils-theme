@@ -1,5 +1,11 @@
 # Change Log
 
+## [0.0.4](https://github.com/gordonbanderson/silverstripe-utils-theme/tree/0.0.4) (2018-05-27)
+[Full Changelog](https://github.com/gordonbanderson/silverstripe-utils-theme/compare/0.0.3...0.0.4)
+
+## [0.0.3](https://github.com/gordonbanderson/silverstripe-utils-theme/tree/0.0.3) (2018-05-26)
+[Full Changelog](https://github.com/gordonbanderson/silverstripe-utils-theme/compare/0.0.2...0.0.3)
+
 ## [0.0.2](https://github.com/gordonbanderson/silverstripe-utils-theme/tree/0.0.2) (2018-05-07)
 [Full Changelog](https://github.com/gordonbanderson/silverstripe-utils-theme/compare/0.0.1...0.0.2)
 
